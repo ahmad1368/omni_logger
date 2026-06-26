@@ -1,7 +1,7 @@
 name: omni_logger
-description: "A new Flutter package project."
+description: A powerful, flexible, and backward-compatible structural logging utility for Flutter.
 version: 1.0.0
-homepage:
+repository: https://github.com/ahmad1368/omni_logger
 
 environment:
   sdk: ^3.11.4
